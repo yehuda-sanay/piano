@@ -1,0 +1,32 @@
+.white {
+    border: 5px solid black;
+    width: 300px; height: 40px;
+    background-color: white;
+    border-radius: 2vh;  
+    z-index: 0;
+    box-shadow: 0ch;
+    transition: all 2s;
+    box-shadow: 0px 0px 0px rgb(255, 255, 255) inset;
+
+}
+
+.white:hover{
+    width: 280px;
+    box-shadow: 10px 10px 5px rgb(109, 109, 109) inset;
+    
+}
+.black {
+    border: 2px solid white;
+    width: 150px; height: 30px;
+    background-color: black; 
+    border-radius: 2vh;
+    z-index: 1;
+    
+    transition: all 2s;
+}
+.black:hover{
+    width: 130px;
+}
+
+.black1 {
+    margin-top: -520px;}
