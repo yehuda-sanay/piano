@@ -1,4 +1,33 @@
-.white {
+.whitea { border: 5px solid black;
+    width: 300px; height: 40px;
+    background-color: white;
+    border-radius: 2vh;  
+    z-index: 0;
+    box-shadow: 0ch;
+    transition: all 2s;
+    box-shadow: 0px 0px 0px rgb(255, 255, 255) inset;
+    
+}
+.whitea:hover{
+    width: 280px;
+    box-shadow: 10px 10px 5px gray inset;
+}
+
+.whiteb { border: 5px solid black;
+    width: 300px; height: 40px;
+    background-color: white;
+    border-radius: 2vh;  
+    z-index: 0;
+    box-shadow: 0ch;
+    transition: all 2s;
+    box-shadow: 0px 0px 0px rgb(255, 255, 255) inset;
+}
+ .whiteb:hover{
+        width: 280px;
+        box-shadow: 10px 10px 5px gray inset;
+    }
+
+.whitec{
     border: 5px solid black;
     width: 300px; height: 40px;
     background-color: white;
@@ -7,13 +36,129 @@
     box-shadow: 0ch;
     transition: all 2s;
     box-shadow: 0px 0px 0px rgb(255, 255, 255) inset;
-
 }
 
-.white:hover{
+.whitec:hover{
     width: 280px;
-    box-shadow: 10px 10px 5px rgb(109, 109, 109) inset;
-    
+    box-shadow: 10px 10px 5px gray inset;
+}
+.whited {
+    border: 5px solid black;
+    width: 300px; height: 40px;
+    background-color: white;
+    border-radius: 2vh;  
+    z-index: 0;
+    box-shadow: 0ch;
+    transition: all 2s;
+    box-shadow: 0px 0px 0px rgb(255, 255, 255) inset;
+}
+.whited:hover{
+    width: 280px;
+    box-shadow: 10px 10px 5px gray inset;
+}
+.whitee {
+    border: 5px solid black;
+    width: 300px; height: 40px;
+    background-color: white;
+    border-radius: 2vh;  
+    z-index: 0;
+    box-shadow: 0ch;
+    transition: all 2s;
+    box-shadow: 0px 0px 0px rgb(255, 255, 255) inset;
+}
+
+.whitee:hover{
+    width: 280px;
+    box-shadow: 10px 10px 5px gray inset;
+}
+.whitef {
+    border: 5px solid black;
+    width: 300px; height: 40px;
+    background-color: white;
+    border-radius: 2vh;  
+    z-index: 0;
+    box-shadow: 0ch;
+    transition: all 2s;
+    box-shadow: 0px 0px 0px rgb(255, 255, 255) inset;
+}
+.whitef:hover{
+    width: 280px;
+    box-shadow: 10px 10px 5px gray inset;
+}
+.whiteg {
+    border: 5px solid black;
+    width: 300px; height: 40px;
+    background-color: white;
+    border-radius: 2vh;  
+    z-index: 0;
+    box-shadow: 0ch;
+    transition: all 2s;
+    box-shadow: 0px 0px 0px rgb(255, 255, 255) inset;
+}
+.whiteg:hover{
+    width: 280px;
+    box-shadow: 10px 10px 5px gray inset;
+}
+
+.whiteh {
+    border: 5px solid black;
+    width: 300px; height: 40px;
+    background-color: white;
+    border-radius: 2vh;  
+    z-index: 0;
+    box-shadow: 0ch;
+    transition: all 2s;
+    box-shadow: 0px 0px 0px rgb(255, 255, 255) inset;
+}
+
+.whiteh:hover{
+    width: 280px;
+    box-shadow: 10px 10px 5px gray inset;
+}
+.whitei {
+    border: 5px solid black;
+    width: 300px; height: 40px;
+    background-color: white;
+    border-radius: 2vh;  
+    z-index: 0;
+    box-shadow: 0ch;
+    transition: all 2s;
+    box-shadow: 0px 0px 0px rgb(255, 255, 255) inset;
+}
+
+.whitei:hover{
+    width: 280px;
+    box-shadow: 10px 10px 5px gray inset;
+}
+
+.whitej {
+    border: 5px solid black;
+    width: 300px; height: 40px;
+    background-color: white;
+    border-radius: 2vh;  
+    z-index: 0;
+    box-shadow: 0ch;
+    transition: all 2s;
+    box-shadow: 0px 0px 0px rgb(255, 255, 255) inset;
+}
+
+.whitej:hover{
+    width: 280px;
+    box-shadow: 10px 10px 5px gray inset;
+}
+.whitek {
+    border: 5px solid black;
+    width: 300px; height: 40px;
+    background-color: white;
+    border-radius: 2vh;  
+    z-index: 0;
+    box-shadow: 0ch;
+    transition: all 2s;
+    box-shadow: 0px 0px 0px rgb(255, 255, 255) inset;
+}
+.whitek:hover{
+    width: 280px;
+    box-shadow: 10px 10px 5px gray inset ;
 }
 .black {
     border: 2px solid white;
@@ -29,4 +174,7 @@
 }
 
 .black1 {
-    margin-top: -520px;}
+    margin-top: -520px;
+
+}
+    
